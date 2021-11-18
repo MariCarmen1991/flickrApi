@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">flickrApi</string>
+    <string name="texto_boton">GO</string>
+    <string name="fav">FOTOS GUARDADAS</string>
+    <string name="btn_salir">SALIR</string>
+    <string name="btn_salir_eliminar">SALIR Y ELIMINAR</string>
+
+
+
+</resources>
